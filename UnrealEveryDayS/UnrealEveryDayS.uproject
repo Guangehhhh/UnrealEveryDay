@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E2AB1653-4AC5-0D28-6423-35BBFC7DB19B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UnrealEveryDayS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
